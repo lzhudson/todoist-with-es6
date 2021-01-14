@@ -1,0 +1,8 @@
+{
+  "name": "todoist-with-es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lzhudson/todoist-with-es6.git",
+  "author": "Hudson Holanda <hudsonholanda55@gmail.com> (https://lzhudson.github.io/)",
+  "license": "MIT"
+}
