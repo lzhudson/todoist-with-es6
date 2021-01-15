@@ -116,7 +116,7 @@ function clearTasks() {
 function clearTasksFromLocalStorage() {
   localStorage.clear();
 }
-// Filter tasks
+
 function filterTask(e) {
   const text = e.target.value.toLowerCase();
 
