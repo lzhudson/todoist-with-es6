@@ -6,6 +6,7 @@
   "author": "Hudson Holanda <hudsonholanda55@gmail.com> (https://lzhudson.github.io/)",
   "license": "MIT",
   "devDependencies": {
+    "babel-loader": "^8.2.2",
     "webpack": "^5.14.0",
     "webpack-cli": "^4.3.1"
   }
